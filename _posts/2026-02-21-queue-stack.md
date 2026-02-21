@@ -1,6 +1,6 @@
 ---
-title: 자바 연결 리스트와 배열
-date: 2026-02-20 20:41:00 +0900
+title: 자바 스택 그리고 큐
+date: 2026-02-21 16:31:00 +0900
 categories: [Java, Data Structure]
 tags: [java, study, 자료구조, 큐, 스택]
 ---
