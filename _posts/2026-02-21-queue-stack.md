@@ -30,7 +30,7 @@ Stack<Integer> stack = new Stack<>();
 stack.push(1); //stack에 1 넣음
 stack.push(2); //stack에 2 넣음
 stack.pop(); // 2꺼냄
-stack.peek(); // 맨위에 뭐가 있는지 확인함. 지금은 1이 있음.
+stack.peek(); // 안꺼내고 맨위에 뭐가 있는지 확인만함.
 
 
 //큐
@@ -55,6 +55,7 @@ ArrayDeque<Integer> arrayDeque = new ArrayDeque<>();
 ```
 이걸 많이 씁니다.<br>
 Array는 배열이고, Deque은 큐인데, 양방향이 뚫려있는 거라고 생각하면 됩니다.
+Double-ended Queue의 약자고요.
 
 ```java
 ArrayDeque<Integer> ad = new ArrayDeque<>();
@@ -87,6 +88,10 @@ queue.poll();
 Deque<Integer> stack = new ArrayDeque<>();
 stack.push(1);
 stack.pop();
+
+//빈 ArrayDeque에서도 pop과 poll할시 아까와 똑같습니다.
+q.poll(); //null 반환
+stack.pop(); // EmptyStackException 예외발생
 ```
 이렇게 인터페이스로 타입을 묶어 누구나 알 수 있게 스택인지 큐인지 써놓고, 그에 맞게 사용하면 될것같습니다.<br>
 주석 안써도 알아보기 쉽겠죠?<br>
@@ -107,5 +112,5 @@ stack은 오래되서 ArrayDeque이랑 일단 호환이 안되고, 자바 doc에
 제가 컴퓨터 공부하면서 가장 싫어하는 말이 있는데, 제가 그말을 하게 될줄은 몰랐네요.<br>
 '상황에 맞게 쓰면 됩니다.'
 
-isEmpty()같은 문법도 있는데, 이 글은 문법 보다는 그냥 큐랑 스택이 어떻게 굴러가는지 원리에 대해서 알아보는 글이니깐, ai에게 물어보거나 구글 검색해봅시다.<br>
+isEmpty()같은 메소드도 있는데, 이 글은 그런거 보다는 그냥 큐랑 스택이 어떻게 굴러가는지 원리에 대해서 알아보는 글이니깐, ai에게 물어보거나 구글 검색해봅시다.<br>
 사실 저도 문제 풀거나 할때, 매번 까먹어서 물어봅니다.
