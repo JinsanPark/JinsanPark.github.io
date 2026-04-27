@@ -19,7 +19,6 @@ math: true
 
 [문제 링크](https://cses.fi/problemset/task/1069/)
 
-요청하신 내용을 원문 그대로 마크다운 형식을 적용해 정리했습니다.
 
 ---
 
