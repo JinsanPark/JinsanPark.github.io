@@ -91,13 +91,13 @@ $$3 \rightarrow 10 \rightarrow 5 \rightarrow 16 \rightarrow 8 \rightarrow 4 \rig
 ## 초기 접근 및 로직 구상 방식
 
 - n이 짝수면 2로 나누고, 홀수이면 n * 3 + 1 해줌. n이 1이 될때까지 반복.
-- 짝수면 n % 2 == 0이고, 홀수면 n % 2 != 0. if문 사용으로 n이 1까지, while문으로 n이 1까지 돌리는게 제일 간단해보인다.
+- 짝수면 n % 2 == 0이고, 홀수면 n % 2 != 0. if문 사용으로 n이 1까지, while문으로 n이 1까지 돌리는게 제일 간단해보임.
 
 ## 시도
 
 **1차 시도는 .**
 
--실패, 처음 n 출력을 못보고 출력하지 않아 틀렸다.
+-실패, 처음 n 출력을 못보고 출력하지 않아 틀림.
 
 <details markdown="1">
 <summary><b>1차 시도 코드 (클릭하여 펼치기)</b></summary>
@@ -136,7 +136,7 @@ public class WeirdAlgorithm {
 }
 ```
 
-</details>
+</details> <br>
 
 
 **2차 시도는 .**
@@ -184,14 +184,14 @@ public class WeirdAlgorithm {
  
  ```
 
- </details>
+ </details> <br>
 
 **3차 시도는 .**
 -성공. int를 long으로 바꾸니 성공했다.
 
 ## 배운 점
 
-- 데이터 크기에 따라서 int, long등을 선언 할 줄 알아야한다. 특히나 n의 범위가 int값 안에 들어간다 하더라도, 연산이 들어가면 이야기가 달라진다.
+- 데이터 크기에 따라서 int, long등을 선언 할 줄 알아야함. 특히나 n의 범위가 int값 안에 들어간다 하더라도, 연산이 들어가면 이야기가 달라짐.
 
 ## 최종 풀이 코드
 
