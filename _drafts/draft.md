@@ -42,26 +42,6 @@ math: true
 <details markdown="1">
 <summary><b>🇰🇷 한국어 번역 (클릭하여 펼치기)</b></summary>
 
-<!-- 번역 본문 -->
-
-### 입력 (Input)
-
-### 출력 (Output)
-
-### 제약 사항 (Constraints)
-
----
-
-### 예제 1
-**입력:**
-```
-
-```
-**출력:**
-```
-
-```
-
 </details>
 
 ---

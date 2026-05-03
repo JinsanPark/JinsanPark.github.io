@@ -86,8 +86,6 @@ $$3 \rightarrow 10 \rightarrow 5 \rightarrow 16 \rightarrow 8 \rightarrow 4 \rig
 
 ---
 
-- 2026 05 04 수정.
-
 ## 초기 접근 및 로직 구상 방식
 
 - n이 짝수면 2로 나누고, 홀수이면 n * 3 + 1 해줌. n이 1이 될때까지 반복.
@@ -99,92 +97,10 @@ $$3 \rightarrow 10 \rightarrow 5 \rightarrow 16 \rightarrow 8 \rightarrow 4 \rig
 
 -실패, 처음 n 출력을 못보고 출력하지 않아 틀렸다.
 
-<details markdown="1">
-<summary><b>1차 시도 코드 (클릭하여 펼치기)</b></summary>
-
-```java
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
- 
-public class WeirdAlgorithm {
-    public static void main(String[] args) throws IOException {
- 
-        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        int n = Integer.parseInt(br.readLine());
-        StringBuilder sb = new StringBuilder();
- 
-        while (n != 1) {
- 
-            if (n % 2 == 0) {
- 
-                n /= 2;
-                sb.append(n).append(" ");
- 
-            } else {
- 
-                n = n * 3 + 1;
-                sb.append(n).append(" ");
- 
-            }
- 
-        }
- 
-        System.out.println(sb); // 맨 처음 n 값을 생략하고 바로 연산한 값이 출력됨
- 
-    }
-}
-```
-
-</details>
-
-
 **2차 시도는 .**
 
+<!-- 어떻게 고쳤는지, 왜 그렇게 고쳤는지 (마음에 안 들어서 같은 사소한 동기도 OK) -->
 -실패. 정수값에서 오버플로우가 발생했다. 아마 int로도 충분하지 못한거 같다.
-
-<details markdown="1">
-<summary><b>2차 시도 코드 (클릭하여 펼치기)</b></summary>
-
-
-```java
-
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
- 
-public class WeirdAlgorithm {
-    public static void main(String[] args) throws IOException {
- 
-        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        int n = Integer.parseInt(br.readLine()); // 오버 플로우 발생.
-        StringBuilder sb = new StringBuilder();
-        sb.append(n).append(" "); // 출력시 처음 n값을 출력하기 위해 추가.
- 
-        while (n != 1) {
- 
-            if (n % 2 == 0) {
- 
-                n /= 2;
-                sb.append(n).append(" ");
- 
-            } else {
- 
-                n = n * 3 + 1;
-                sb.append(n).append(" ");
- 
-            }
- 
-        }
- 
-        System.out.println(sb);
- 
-    }
-}
- 
- ```
-
- </details>
 
 **3차 시도는 .**
 -성공. int를 long으로 바꾸니 성공했다.
