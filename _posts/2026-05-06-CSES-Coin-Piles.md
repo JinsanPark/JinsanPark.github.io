@@ -1,6 +1,6 @@
 ---
 title: "CSES - Coin Piles"
-date: YYYY-MM-DD HH:MM:SS +0900
+date: 2026-05-06 17:55:00 +0900
 categories: [CSES, Introductory Problems]
 tags: [java, cses, 문제풀이]
 math: true
