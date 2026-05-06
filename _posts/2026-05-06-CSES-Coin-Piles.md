@@ -1,5 +1,5 @@
 ---
-title: "Coin Piles"
+title: "CSES - Coin Piles"
 date: YYYY-MM-DD HH:MM:SS +0900
 categories: [CSES, Introductory Problems]
 tags: [java, cses, 문제풀이]
@@ -123,12 +123,13 @@ YES
 
 > **힌트 1**
 > 한 번의 연산이 두 더미에 미치는 영향을 생각해보기
-
+{: .prompt-tip }
 
 - 10 2 면 2번 돌릴 수 있는데, 2 번 돌리면 6 0 임.
 
 > **힌트 2**
 > 두 더미를 (a, b), a ≥ b 라고 둘 때 — 작은 쪽 b가 "고갈되기 전까지" 큰 쪽 a를 줄일 수 있는 양의 한계를 b에 대한 식으로 써보면 어떻게 될까요? 그리고 그 한계 안에서 a를 0까지 끌어내리려면 a와 b 사이에 어떤 부등식이 성립해야 하는지?
+{: .prompt-tip }
 
 계산해보면, 하나는 2, 하나는 1만큼 줄어드니깐,
 2빼면 다음에 1빼고 4빼면 다음거에는 2빼고...
@@ -148,54 +149,6 @@ YES
 
 성공.
 
-
-```java
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.util.StringTokenizer;
-
-public class CoinPiles {
-    public static void main(String[] args) throws IOException {
-
-        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        int t = Integer.parseInt(br.readLine());
-        StringBuilder sb = new StringBuilder();
-        int max = 0;
-        int min = 0;
-
-        for (int i = 0; i < t; i++) {
-
-            StringTokenizer st = new StringTokenizer(br.readLine());
-
-            int a = Integer.parseInt(st.nextToken());
-            int b = Integer.parseInt(st.nextToken());
-
-            if (a > b) {
-                max = a;
-                min = b;
-            } else {
-                max = b;
-                min = a;
-            }
-
-            if ((max + min) % 3 == 0) {
-                if (max <= 2 * min) {
-                    sb.append("YES");
-                } else {
-                    sb.append("NO");
-                }
-            } else {
-                sb.append("NO");
-            }
-            sb.append("\n");
-        }
-
-        System.out.println(sb);
-
-    }
-}
-```
 
 ## 배운 점
 
