@@ -1,6 +1,6 @@
 ---
 title: "CSES - Palindrome Reorder"
-date: 2026-05-07 20:00:00 +0900
+date: 2026-05-07 19:30:00 +0900
 categories: [CSES, Introductory Problems]
 tags: [java, cses, 문제풀이]
 math: true
