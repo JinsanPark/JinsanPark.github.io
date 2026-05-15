@@ -1,5 +1,5 @@
 ---
-title: "Permutations"
+title: "CSES - Permutations"
 date: 2026-04-27 15:30:00 +0900
 categories: [CSES, Introductory Problems]
 tags: [java, cses, 문제풀이]

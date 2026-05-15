@@ -1,5 +1,5 @@
 ---
-title: "Missing Number"
+title: "CSES - Missing Number"
 date: 2026-04-21 09:57:21 +0900
 categories: [CSES, Introductory Problems]
 tags: [java, cses, 문제풀이]

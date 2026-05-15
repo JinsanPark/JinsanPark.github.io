@@ -1,5 +1,5 @@
 ---
-title: "Repetitions"
+title: "CSES - Repetitions"
 date: 2026-04-23 20:00:00 +0900
 categories: [CSES, Introductory Problems]
 tags: [java, cses, 문제풀이]

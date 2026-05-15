@@ -1,5 +1,5 @@
 ---
-title: "Two Knights"
+title: "CSES - Two Knights"
 date: 2026-04-28 17:50:00 +0900
 categories: [CSES, Introductory Problems]
 tags: [java, cses, 문제풀이]

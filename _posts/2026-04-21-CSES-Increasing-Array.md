@@ -1,5 +1,5 @@
 ---
-title: "Increasing Array"
+title: "CSES - Increasing Array"
 date: 2026-04-23 20:10:21 +0900
 categories: [CSES, Introductory Problems]
 tags: [java, cses, 문제풀이]
