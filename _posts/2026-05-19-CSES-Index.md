@@ -347,8 +347,8 @@ Correct: "맞아요, 그 -1이 빠지면 마지막 한 칸이 처리가 안 되�
 | 12 | [Palindrome Reorder](https://cses.fi/problemset/task/1755) | [풀이](/posts/CSES-Palindrome-Reorder/) |
 | 13 | [Gray Code](https://cses.fi/problemset/task/2205) | [풀이](/posts/CSES-Gray-Code/) |
 | 14 | [Tower of Hanoi](https://cses.fi/problemset/task/2165) | [풀이](/posts/CSES-Tower-of-Hanoi/) |
-<!-- | 15 | Creating Strings | - |
+| 15 | Creating Strings | - |
 | 16 | Apple Division | - |
 | 17 | Chessboard and Queens | - |
 | 18 | Digit Queries | - |
-| 19 | Grid Paths | - | -->
+| 19 | Grid Paths | - |
