@@ -1,8 +1,8 @@
 ---
 title: "CSES - 문제 모음"
-date: YYYY-MM-DD HH:MM:SS +0900
+date: 2026-05-19 01:00:00 +0900
 categories: [CSES, Introductory Problems]
-tags: [java, cses, 문제풀이]
+tags: [java, cses, 문제풀이모음]
 math: true
 ---
 
