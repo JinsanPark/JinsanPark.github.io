@@ -1,5 +1,5 @@
 ---
-title: "Creating Strings"
+title: "CSES - Creating Strings"
 date: 2026-05-20 17:30:00 +0900
 categories: [CSES, Introductory Problems]
 tags: [java, cses, 문제풀이]
