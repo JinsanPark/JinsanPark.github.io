@@ -1,6 +1,6 @@
 ---
 title: "CSES - Apple Division"
-date: 2026-05-21 15:30:00 +0900
+date: 2026-05-21 15:00:00 +0900
 categories: [CSES, Introductory Problems]
 tags: [java, cses, 문제풀이]
 math: true
