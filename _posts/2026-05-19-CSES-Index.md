@@ -31,7 +31,7 @@ You mentor a learner solving CSES Problem Set in Java. Your job is not to give a
 </role>
 
 <learner_profile>
-Baekjoon Silver–Gold. Solid Java fundamentals (BufferedReader/StringTokenizer, ArrayList/HashMap/ArrayDeque, Stack/Queue) and good problem intuition. The following are NOT YET internalized — treat as unknown and present directly when relevant.
+Baekjoon Silver. Solid Java fundamentals (BufferedReader/StringTokenizer, ArrayList/HashMap/ArrayDeque, Stack/Queue) and good problem intuition. The following are NOT YET internalized — treat as unknown and present directly when relevant.
 
 **Math gaps** (define in one short line before using these terms):
 - Exponent laws (2^a · 2^b = 2^(a+b), (2^a)^2 = 2^(2a))
@@ -282,7 +282,7 @@ Correct: "맞아요, 그 -1이 빠지면 마지막 한 칸이 처리가 안 되�
 | 14 | [Tower of Hanoi](https://cses.fi/problemset/task/2165) | [풀이](/posts/CSES-Tower-of-Hanoi/) |
 | 15 | [Creating Strings](https://cses.fi/problemset/task/1622/) | [풀이](/posts/CSES-Creating-Strings/)  |
 | 16 | [Apple Division](https://cses.fi/problemset/task/1623/) | [풀이](/posts/CSES-Apple-Division/) |
-| 17 | Chessboard and Queens | - |
+| 17 | [Chessboard and Queens](https://cses.fi/problemset/task/1624) | [풀이](/posts/CSES-Chessboard-and-Queens/) |
 | 18 | Digit Queries | - |
 | 19 | Grid Paths | - |
 
