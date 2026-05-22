@@ -1,6 +1,6 @@
 ---
 title: "CSES - Chessboard and Queens"
-date: 2025-05-22 20:30:00 +0900
+date: 2026-05-22 20:30:00 +0900
 categories: [CSES, Introductory Problems]
 tags: [java, cses, 문제풀이]
 math: true
