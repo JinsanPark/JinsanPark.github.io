@@ -16,15 +16,15 @@ math: true
 
 문제에서 나선형으로 숫자를 +1씩 증가 시켜 가며 채우는 문제. 어떻게 숫자를 채울까 고민.
 예전 CSES 문제였던 계차 수열 문제 처럼 규칙을 찾다가 포기하고, 그냥 방향을 사용하여 조건에 맞게 방향 전환으로 하기로 결정함.
-
+{% raw %}
 ```java
 
-int[][] direction = {{0,1},{1,0},{0,-1},{-1,0}}; // 순서대로 오른쪽, 아래, 왼쪽, 위쪽
+int[][] direction =  {{0,1},{1,0},{0,-1},{-1,0}}; // 순서대로 오른쪽, 아래, 왼쪽, 위쪽
 
 d = (d + 1) % 4;// 으로 방향 번경
 
 ```
-
+{% endraw %}
 
 
 ```java
@@ -75,6 +75,7 @@ for(int i = 1; i <= n*n; ) {
 <details markdown="1">
 <summary><b>1차 제출 코드 (클릭하여 펼치기)</b></summary>
 
+{% raw %}
 ```java
 class Solution {
     public int[][] solution(int n) {
@@ -105,6 +106,8 @@ class Solution {
     }
 }
 ```
+{% endraw %}
+
 </details>
 
 변수가 너무 많다 보니, 코드가 지저분해 보인다고 생각함.
@@ -116,6 +119,7 @@ class Solution {
 <details markdown="1">
 <summary><b>2차 제출 코드</b></summary>
 
+{% raw %}
 ```java
 class Solution {
     public int[][] solution(int n) {
@@ -142,7 +146,9 @@ class Solution {
         return answer;
     }
 }
+
 ```
+{% endraw %}
 
 next 변수 없이 현재 col, row를 갱신시켜 다음 지점을 가르키게함.
 
