@@ -287,7 +287,8 @@ Correct: "맞아요, 그 -1이 빠지면 마지막 한 칸이 처리가 안 되�
 | 15 | [Creating Strings](https://cses.fi/problemset/task/1622/) | [풀이](/posts/CSES-Creating-Strings/)  |
 | 16 | [Apple Division](https://cses.fi/problemset/task/1623/) | [풀이](/posts/CSES-Apple-Division/) |
 | 17 | [Chessboard and Queens](https://cses.fi/problemset/task/1624) | [풀이](/posts/CSES-Chessboard-and-Queens/) |
-| 18 | Digit Queries | - |
-| 19 | Grid Paths | - |
+| 18 | [Chessboard and Queens](https://cses.fi/problemset/task/3399) | [풀이](/posts/CSES-Raab-Game-I/) |
+| 19 | Digit Queries | - |
+| 20 | Grid Paths | - |
 
 계속 업데이트 할 예정입니다.
