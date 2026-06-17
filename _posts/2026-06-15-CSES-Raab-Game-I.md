@@ -18,6 +18,8 @@ math: true
 ## 문제 설명
 
 [문제 링크](https://cses.fi/problemset/task/3399/)
+출처: CSES Problem Set by Antti Laaksonen (https://cses.fi/problemset)
+라이선스: Creative Commons BY-NC-SA 4.0
 
 ---
 
@@ -128,7 +130,7 @@ NO
 
 ## 초기 접근 및 로직 구상 방식
 
-초기에 결과가 주어지고 그 과정중 하나를 찾아야 하니깐 브루탈 포스라고 판단함.
+초기에 결과가 주어지고 그 과정중 하나를 찾아야 하니깐 브루트 포스라고 판단함.
 반복으로 처리하려다가 n의 최대 100부터 -1씩 줄여가며 찾으니, 최악에는 시간 복잡도가 O(n!)로 느릴것 같다고 판단해, 배열이 아니라 바로 StringBuilder의 넣는 방식으로 구상함.
 
 <details markdown="1">
@@ -422,3 +424,4 @@ public class RaaBGameI {
     }
 }
 ```
+
