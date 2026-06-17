@@ -323,7 +323,7 @@ Correct: "맞아요, 그 -1이 빠지면 마지막 한 칸이 처리가 안 되�
 | 17 | [Chessboard and Queens](https://cses.fi/problemset/task/1624) | [풀이](/posts/CSES-Chessboard-and-Queens/) |
 | 18 | [Raab Game I](https://cses.fi/problemset/task/3399) | [풀이](/posts/CSES-Raab-Game-I/) |
 | 19 | [Mex Grid Construction](https://cses.fi/problemset/task/3419/) | [풀이](/posts/CSES-Mex-Gred-Construction/) |
-| 20 | [Knight Moves Grid](https://cses.fi/problemset/task/3217/) | [풀이](/posts/Knight-Moves-Grid/) |
+| 20 | [Knight Moves Grid](https://cses.fi/problemset/task/3217/) | [풀이](/posts/CSES-Knight-Moves-Grid/) |
 | 21 | Digit Queries | - |
 | 22 | Grid Paths | - |
 
