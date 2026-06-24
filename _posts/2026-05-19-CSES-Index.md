@@ -298,6 +298,7 @@ Correct: "맞아요, 그 -1이 빠지면 마지막 한 칸이 처리가 안 되�
 </details>
 
 출처: CSES Problem Set by Antti Laaksonen (https://cses.fi/problemset)
+
 라이선스: Creative Commons BY-NC-SA 4.0
 
 ## Introductory Problems
@@ -324,7 +325,8 @@ Correct: "맞아요, 그 -1이 빠지면 마지막 한 칸이 처리가 안 되�
 | 18 | [Raab Game I](https://cses.fi/problemset/task/3399) | [풀이](/posts/CSES-Raab-Game-I/) |
 | 19 | [Mex Grid Construction](https://cses.fi/problemset/task/3419/) | [풀이](/posts/CSES-Mex-Gred-Construction/) |
 | 20 | [Knight Moves Grid](https://cses.fi/problemset/task/3217/) | [풀이](/posts/CSES-Knight-Moves-Grid/) |
-| 21 | Digit Queries | - |
-| 22 | Grid Paths | - |
+| 21 | [Grid Coloring I](https://cses.fi/problemset/task/3311/) | [풀이](/posts/CSES-Grid-Coloring-I/) |
+| 22 | Digit Queries | - |
+| 23 | Grid Paths | - |
 
 계속 업데이트 할 예정입니다.

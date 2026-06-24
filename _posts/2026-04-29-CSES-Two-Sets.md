@@ -18,7 +18,9 @@ math: true
 ## 문제 설명
 
 [문제 링크](https://cses.fi/problemset/task/1092)
+
 출처: CSES Problem Set by Antti Laaksonen (https://cses.fi/problemset)
+
 라이선스: Creative Commons BY-NC-SA 4.0
 
 ---
