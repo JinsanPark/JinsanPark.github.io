@@ -25,10 +25,9 @@ math: true
 
 [문제 링크](https://cses.fi/problemset/task/1623)
 
-출처: CSES Problem Set by Antti Laaksonen (https://cses.fi/problemset)
+[출처](https://cses.fi/problemset) : CSES Problem Set by Antti Laaksonen
 
-라이선스: Creative Commons BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
-
+[라이선스](https://creativecommons.org/licenses/by-nc-sa/4.0/) : Creative Commons BY-NC-SA 4.0
 ---
 
 ## Apple Division
