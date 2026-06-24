@@ -10,10 +10,6 @@ math: true
 
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181832)
 
-출처: CSES Problem Set by Antti Laaksonen (https://cses.fi/problemset)
-
-라이선스: Creative Commons BY-NC-SA 4.0
-
 ---
 
 ## 초기 접근 및 로직 구상 방식

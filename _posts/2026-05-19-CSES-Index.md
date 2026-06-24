@@ -299,7 +299,7 @@ Correct: "맞아요, 그 -1이 빠지면 마지막 한 칸이 처리가 안 되�
 
 출처: CSES Problem Set by Antti Laaksonen (https://cses.fi/problemset)
 
-라이선스: Creative Commons BY-NC-SA 4.0
+라이선스: Creative Commons BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ## Introductory Problems
 
