@@ -17,11 +17,13 @@ math: true
 
 ## 문제 설명
 
-[문제 링크](https://cses.fi/problemset/task/3217/)
+- [문제 링크](https://cses.fi/problemset/task/3217/)
 
-[출처](https://cses.fi/problemset) : CSES Problem Set by Antti Laaksonen
+- [출처](https://cses.fi/problemset) : CSES Problem Set by Antti Laaksonen
 
-[라이선스](https://creativecommons.org/licenses/by-nc-sa/4.0/) : Creative Commons BY-NC-SA 4.0
+- [라이선스](https://creativecommons.org/licenses/by-nc-sa/4.0/) : Creative Commons BY-NC-SA 4.0
+
+- 이 게시물은 CC BY-NC-SA 4.0을 따릅니다
 
 ---
 
@@ -60,6 +62,8 @@ Print the number of moves for each square.
 
 <details markdown="1">
 <summary><b>🇰🇷 한국어 번역 (클릭하여 펼치기)</b></summary>
+
+※ 원문을 한국어로 번역하였습니다.
 
 $n \times n$ 크기의 체스판 위에 나이트가 있습니다. 체스판의 각 칸에 대해, 해당 칸에서 나이트가 맨 왼쪽 위(좌측 상단) 모서리에 도달하기 위해 필요한 최소 이동 횟수를 출력하십시오.
 

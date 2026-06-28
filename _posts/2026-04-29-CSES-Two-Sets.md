@@ -17,11 +17,13 @@ math: true
 
 ## 문제 설명
 
-[문제 링크](https://cses.fi/problemset/task/1092)
+- [문제 링크](https://cses.fi/problemset/task/1092)
 
-[출처](https://cses.fi/problemset) : CSES Problem Set by Antti Laaksonen
+- [출처](https://cses.fi/problemset) : CSES Problem Set by Antti Laaksonen
 
-[라이선스](https://creativecommons.org/licenses/by-nc-sa/4.0/) : Creative Commons BY-NC-SA 4.0
+- [라이선스](https://creativecommons.org/licenses/by-nc-sa/4.0/) : Creative Commons BY-NC-SA 4.0
+
+- 이 게시물은 CC BY-NC-SA 4.0을 따릅니다.
 
 ---
 

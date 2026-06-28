@@ -17,11 +17,13 @@ math: true
 
 ## 문제 설명
 
-[문제 링크](https://cses.fi/problemset/task/3419/)
+- [문제 링크](https://cses.fi/problemset/task/3419/)
 
-[출처](https://cses.fi/problemset) : CSES Problem Set by Antti Laaksonen
+- [출처](https://cses.fi/problemset) : CSES Problem Set by Antti Laaksonen
 
-[라이선스](https://creativecommons.org/licenses/by-nc-sa/4.0/) : Creative Commons BY-NC-SA 4.0
+- [라이선스](https://creativecommons.org/licenses/by-nc-sa/4.0/) : Creative Commons BY-NC-SA 4.0
+
+- 이 게시물은 CC BY-NC-SA 4.0을 따릅니다
 
 ---
 
@@ -57,6 +59,8 @@ Print the grid according to the example.
 
 <details markdown="1">
 <summary><b>🇰🇷 한국어 번역 (클릭하여 펼치기)</b></summary>
+
+※ 원문을 한국어로 번역하였습니다.
 
 당신의 임무는 각 칸이 같은 행의 왼쪽이나 같은 열의 위쪽에 등장하지 않는 가장 작은 음이 아닌 정수(0 이상의 정수)를 가지는 $n \times n$ 격자를 구성하는 것입니다.
 

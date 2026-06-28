@@ -301,6 +301,8 @@ Correct: "맞아요, 그 -1이 빠지면 마지막 한 칸이 처리가 안 되�
 
 [라이선스](https://creativecommons.org/licenses/by-nc-sa/4.0/) : Creative Commons BY-NC-SA 4.0
 
+- 이 게시물은 CC BY-NC-SA 4.0 라이선스를 따릅니다.
+  
 ## Introductory Problems
 
 | # | 문제 | 풀이 |

@@ -17,11 +17,13 @@ math: true
 
 ## 문제 설명
 
-[문제 링크](https://cses.fi/problemset/task/3311)
+- [문제 링크](https://cses.fi/problemset/task/3311)
 
-[출처](https://cses.fi/problemset) : CSES Problem Set by Antti Laaksonen
+- [출처](https://cses.fi/problemset) : CSES Problem Set by Antti Laaksonen
 
-[라이선스](https://creativecommons.org/licenses/by-nc-sa/4.0/) : Creative Commons BY-NC-SA 4.0
+- [라이선스](https://creativecommons.org/licenses/by-nc-sa/4.0/) : Creative Commons BY-NC-SA 4.0
+
+- 이 게시물은 CC BY-NC-SA 4.0을 따릅니다
 
 ---
 
@@ -68,6 +70,8 @@ ABAB
 
 <details markdown="1">
 <summary><b>🇰🇷 한국어 번역 (클릭하여 펼치기)</b></summary>
+
+※ 원문을 한국어로 번역하였습니다.
 
 각 칸에 `A`, `B`, `C`, `D` 중 하나의 문자가 들어 있는 $n \times m$ 크기의 격자가 주어집니다.
 
