@@ -1,7 +1,7 @@
 ---
 title: "정수를 나선형으로 배치하기"
 date: 2026-06-10 11:00:00 +0900
-categories: [프로그래머스]
+categories: [프로그래머스, 기초문제]
 tags: [java, 문제풀이]
 math: true
 ---
