@@ -64,6 +64,8 @@ class Solution {
 {: .prompt-tip }
 
 - 바로 HashSet 떠오름. 위 방향대로 어차피 순서의 상관없는 delete_list를 HashSet으로 받기로 생각함.
+
+
 **2차 제출**
 
 - 성공.
