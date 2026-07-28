@@ -6,7 +6,7 @@ tags: [java, Spring, docker]
 math: true
 ---
 
-
+## 초기 접근 및 로직 구상 방식
 
 
 
@@ -15,3 +15,23 @@ math: true
 
 </details>
 
+
+
+## 제출
+
+**1차 제출**
+
+
+
+
+## 배운 점
+
+
+
+
+
+## 최종 풀이 코드
+
+```java
+
+```

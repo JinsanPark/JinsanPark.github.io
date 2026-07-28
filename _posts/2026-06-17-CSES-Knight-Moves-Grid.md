@@ -23,8 +23,6 @@ math: true
 
 - [라이선스](https://creativecommons.org/licenses/by-nc-sa/4.0/) : Creative Commons BY-NC-SA 4.0
 
-- 이 게시물은 CC BY-NC-SA 4.0을 따릅니다
-
 ---
 
 There is a knight on an $n \times n$ chessboard. For each square, print the minimum number of moves the knight needs to do to reach the top-left corner.

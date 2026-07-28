@@ -25,8 +25,6 @@ math: true
 
 - [라이선스](https://creativecommons.org/licenses/by-nc-sa/4.0/) : Creative Commons BY-NC-SA 4.0
 
-- 이 게시물은 CC BY-NC-SA 4.0을 따릅니다.
-
 ---
 
 You are given all numbers between 1,2,\ldots,n except one. Your task is to find the missing number.

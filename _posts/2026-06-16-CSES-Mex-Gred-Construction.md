@@ -23,8 +23,6 @@ math: true
 
 - [라이선스](https://creativecommons.org/licenses/by-nc-sa/4.0/) : Creative Commons BY-NC-SA 4.0
 
-- 이 게시물은 CC BY-NC-SA 4.0을 따릅니다
-
 ---
 
 Your task is to construct an $n \times n$ grid where each square has the smallest nonnegative integer that does not appear to the left on the same row or above on the same column.

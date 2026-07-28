@@ -23,8 +23,6 @@ math: true
 
 - [라이선스](https://creativecommons.org/licenses/by-nc-sa/4.0/) : Creative Commons BY-NC-SA 4.0
 
-- 이 게시물은 CC BY-NC-SA 4.0을 따릅니다.
-
 ---
 
 Consider an algorithm that takes as input a positive integer n. If n is even, the algorithm divides it by two, and if n is odd, the algorithm multiplies it by three and adds one. The algorithm repeats this, until n is one. For example, the sequence for n=3 is as follows:

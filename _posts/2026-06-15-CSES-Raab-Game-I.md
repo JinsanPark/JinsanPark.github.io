@@ -23,8 +23,6 @@ math: true
 
 - [라이선스](https://creativecommons.org/licenses/by-nc-sa/4.0/) : Creative Commons BY-NC-SA 4.0
 
-- 이 게시물은 CC BY-NC-SA 4.0을 따릅니다
-
 ---
 
 Consider a two player game where each player has $n$ cards numbered $1, 2, \dots, n$. On each turn both players place one of their cards on the table. The player who placed the higher card gets one point. If the cards are equal, neither player gets a point. The game continues until all cards have been played.
