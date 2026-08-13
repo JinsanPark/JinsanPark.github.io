@@ -52,8 +52,12 @@ API 요청 한 번에 평균 200ms 정도 걸리더라고요.
 AI에게 Voyage API 문서 찾아보라고 시켰더니, input 파라미터가 배열을 받더라고요.<br>
 즉, 한 번에 하나씩만 보낼 수 있는 게 아니라 여러건이 가능합니다. 저는 하나씩 보내고 있었고요.
 
-한 번에 128개까지 됩니다.<br>
-그러면 300건은 세 번이면 끝나죠.
+~~한 번에 128개까지 됩니다.<br>
+그러면 300건은 세 번이면 끝나죠.~~
+
+다시 알아 보니깐 128건이 아니라 1000건이였네요. 128건은 파이썬 클라이언트의 기본 배치 크기 였습니다.
+근데 일단 128건에서 자르기로 했습니다. 최대 토큰 제한도 있기도 하고, 1000건 보내다가 1개 터지면 1000개 다시 해야하는데, 128건이면, 그 부분만 다시하면 되니깐요. 여러분은 ai가 맞다고 하는거, 다시 확인하는 습관을 들이시기 바랍니다.
+
 
 ## 코드
 
@@ -64,7 +68,7 @@ public List<List<Double>> embedDocuments(List<String> texts){
 
     List<List<Double>> batchList = new ArrayList<>();
 
-    //voyage4lite batch 요청 최대 크기 128
+    //voyage4lite batch 요청 최대 크기 1000. 128로 쪼갬
     for(int i = 0; i < texts.size(); i += 128){
         int end = Math.min(texts.size(), i + 128);
         List<String> chunk = texts.subList(i,end);
