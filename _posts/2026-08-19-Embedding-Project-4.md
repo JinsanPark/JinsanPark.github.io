@@ -156,5 +156,3 @@ public List<NewsSearchResult> search(String query) {
 ## 다음 시간
 
 300건은 너무 적으니, 데이터를 늘려서 한번 계산해볼까 합니다.
-
-지난 편에서 3만 건이면 2.5초라고 계산했는데, 한번 해보려구요.
