@@ -28,10 +28,10 @@ LRU는 Least Recently Used라고
 
 위 코드를 순서대로 실행하면 뭐가 남고, 뭐가 빠질까요?
 
-A
-A B
-A B C
-B C A
+A<br>
+A B<br>
+A B C<br>
+B C A<br>
 C A D
 
 로 B가 빠지겠죠.
