@@ -3,6 +3,7 @@ title: 임베딩 검색 프로젝트 모음
 date: 2026-09-03 09:00:00 +0900
 categories: [Project, newsFinder]
 tags: [java, spring, test, study]
+pin: true
 ---
 
 ## 이 글은
@@ -100,6 +101,7 @@ Point out *where* and *why*, but don't rewrite the whole thing.
 | 8 | [테스트 짜다가 코드를 고치기](/posts/Embedding-Project-8/) |
 | 9 | [간단한 LRU 코드](/posts/Embedding-Project-9/) |
 | 10 | [L1 캐시](/posts/Embedding-Project-10/) |
+| 11 | [L1 캐시 측정과 조건 기준점 최대한 세우기](/posts/Embedding-Project-11/) |
 
 
 계속 업데이트 할 예정입니다.
