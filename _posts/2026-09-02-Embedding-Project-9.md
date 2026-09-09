@@ -7,7 +7,7 @@ tags: [java, spring, test, study]
 
 ## 지난 시간
 
-지난 시간에 캐시 히트/미스를 짜고 그거를 테스트 해봤죠.<br>
+[지난 시간에](/posts/Embedding-Project-8/) 캐시 히트/미스를 짜고 그거를 테스트 해봤죠.<br>
 이번 시간에는 메모리 캐시의 알맹이만 먼저 만들어봅시다. 붙이는 건 다음 시간에요.
 
 ## LRU?
@@ -161,5 +161,5 @@ and others were not expected:
 
 ## 다음 시간
 
-다음 시간에는 이 클래스를 DB 조회할때 앞에다가 얹어보려고 합니다.<br>
+[다음 시간에는](/posts/Embedding-Project-10/) 이 클래스를 DB 조회할때 앞에다가 얹어보려고 합니다.<br>
 NewsService는 단 한곳도 건들이지 않고요.

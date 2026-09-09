@@ -7,7 +7,7 @@ tags: [java, spring, test, study]
 
 ## 지난 시간
 
-[저번 시간](/posts/Embedding-Project-13/)에 containsKey 어쩌구 하면서 null값 받을 수도 있다고 그랬죠.<br>
+[저번 시간](/posts/Embedding-Project-12/)에 containsKey 어쩌구 하면서 null값 받을 수도 있다고 그랬죠.<br>
 그러면 오늘 이어서 알아봅시다.
 
 ## 안전?

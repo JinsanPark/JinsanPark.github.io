@@ -7,7 +7,7 @@ tags: [java, spring, pgvector, postgresql, study]
 
 ## 지난 시간
 
-캐시로 파싱을 없애서 28.5ms를 줄였습니다.<br>
+[지난 시간에](/posts/Embedding-Project-3/) 캐시로 파싱을 없애서 28.5ms를 줄였습니다.<br>
 근데 데이터가 커지면? 벡터 하나가 대략 24KB니까 3만 건이면 700MB예요. 많이 크죠.
 
 그리고 생각해보면, 유사도 계산을 자바가 하고 있으니까 벡터를 자바가 들고 있어야 했던 겁니다.<br>
@@ -155,4 +155,4 @@ public List<NewsSearchResult> search(String query) {
 
 ## 다음 시간
 
-300건은 너무 적으니, 데이터를 늘려서 한번 계산해볼까 합니다.
+[다음 시간에는](/posts/Embedding-Project-5/) 300건은 너무 적으니, 데이터를 늘려서 한번 계산해볼까 합니다.
