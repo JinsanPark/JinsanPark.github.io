@@ -104,6 +104,7 @@ Point out *where* and *why*, but don't rewrite the whole thing.
 | 11 | [L1 캐시 측정과 조건 기준점 최대한 세우기](/posts/Embedding-Project-11/) |
 | 12 | [synchronized으로 동시성 일부 해결하기](/posts/Embedding-Project-12/) |
 | 13 | [containsKey를 꼭 만져야 동시성을 해결하나?](/posts/Embedding-Project-13/) |
+| 14 | [동시 요청에 API를 1번만](/posts/Embedding-Project-14/) |
 
 
 계속 업데이트 할 예정입니다.
