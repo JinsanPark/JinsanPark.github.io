@@ -105,6 +105,8 @@ Point out *where* and *why*, but don't rewrite the whole thing.
 | 12 | [synchronized으로 동시성 일부 해결하기](/posts/Embedding-Project-12/) |
 | 13 | [containsKey를 꼭 만져야 동시성을 해결하나?](/posts/Embedding-Project-13/) |
 | 14 | [동시 요청에 API를 1번만](/posts/Embedding-Project-14/) |
+| 15 | [락은 최소한으로](/posts/Embedding-Project-15/) |
+| 16 | [(Voyage) 서버가 맛이 가면](/posts/Embedding-Project-16/) |
 
 
 계속 업데이트 할 예정입니다.
