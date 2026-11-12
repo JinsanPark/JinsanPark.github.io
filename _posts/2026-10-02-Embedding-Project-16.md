@@ -140,7 +140,7 @@ NPE 오류가 나겠죠?<br>
 
 ### 커밋
 
-[a570f80](https://github.com/JinsanPark/NewsFinder/commit/a570f80e11422a9d7cfc3ab76bc77070eff2af42)<br>
+[306c005](https://github.com/JinsanPark/NewsFinder/commit/306c0055d57c0cc3f31bdbb77ae80f3253581c6f)<br>
 
 
 ## 다음 시간
